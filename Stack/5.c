@@ -66,3 +66,9 @@ int main(){
 	printf("%d\n", x);
 	return 0;
 }
+/*
+4
+3
+2
+1
+*/
